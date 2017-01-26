@@ -8,7 +8,7 @@ dependencies:
     name: druidfi.nginx-includes
   - src: git@github.com:druidfi/ansible-role-nginx-certbot-cert.git
     scm: git
-    version: 0.1.1
+    version: 0.1.2
     name: druidfi.nginx-certbot-cert
   - src: geerlingguy.certbot
     version: 0.2.1
