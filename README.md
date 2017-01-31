@@ -2,6 +2,8 @@
 
 Meta role to require all the common roles and versions used by Druid infras.
 
+See [changelog](CHANGELOG.md) for changes.
+
 ## Current roles included:
 
 - alekseyp.papertrail
