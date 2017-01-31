@@ -4,7 +4,20 @@ Meta role to require all the common roles and versions used by Druid infras.
 
 See [changelog](CHANGELOG.md) for changes.
 
-## Current roles included:
+## How to use in infra project:
+
+Add this to requirements.yml:
+
+```
+- src: git@github.com:druidfi/ansible-role-stack.git
+  scm: git
+  version: master
+  name: druidfi.role-stack
+```
+
+No need to add this role to any playbook, as you will use the roles below in your playbooks.
+
+## Roles included:
 
 - alekseyp.papertrail
 - druidfi.nginx-includes
