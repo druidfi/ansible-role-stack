@@ -11,7 +11,7 @@ dependencies:
     version: 0.1.2
     name: druidfi.nginx-certbot-cert
   - src: geerlingguy.certbot
-    version: 1.0.0
+    version: 1.0.1
   - src: geerlingguy.composer
     version: 1.5.0
   - src: geerlingguy.daemonize
