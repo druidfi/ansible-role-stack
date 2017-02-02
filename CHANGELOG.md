@@ -3,6 +3,11 @@ All notable changes to this role will be documented in this file.
 
 ## [Unreleased]
 ### Added
+
+### Changed
+
+## [1.0.0]
+### Added
 - All the roles from ansible-project-infra-template role
 
 ### Changed
