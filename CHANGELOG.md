@@ -5,6 +5,11 @@ All notable changes to this role will be documented in this file.
 ### Added
 
 ### Changed
+
+## [1.0.1]
+### Added
+
+### Changed
 - Updated geerlingguy.composer to version 1.6.1
 - Updated geerlingguy.drush to version 1.2.1
 - Updated geerlingguy.firewall to version 2.1.1
