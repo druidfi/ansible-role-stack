@@ -6,6 +6,12 @@ All notable changes to this role will be documented in this file.
 
 ### Changed
 
+## [1.0.2]
+### Added
+- Added tersmitten.swapfile role v1.0.4 to create swap in Ubuntu
+
+### Changed
+
 ## [1.0.1]
 ### Added
 

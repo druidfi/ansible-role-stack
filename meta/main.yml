@@ -60,3 +60,5 @@ dependencies:
     version: v2.6
   - src: jdauphant.ssl-certs
     version: v1.2.6
+  - src: tersmitten.swapfile
+    version: v1.0.4

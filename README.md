@@ -11,7 +11,7 @@ Add this to requirements.yml:
 ```
 - src: git@github.com:druidfi/ansible-role-stack.git
   scm: git
-  version: 1.0.1
+  version: 1.0.2
   name: druidfi.role-stack
 ```
 
@@ -47,3 +47,4 @@ No need to add this role to any playbook, as you will use the roles below in you
 - geerlingguy.varnish
 - jdauphant.nginx
 - jdauphant.ssl-certs
+- tersmitten.swapfile
