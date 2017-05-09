@@ -13,7 +13,6 @@ All notable changes to this role will be documented in this file.
 ### Changed
 - Updated druidfi.nginx-includes to version 0.1.4
 - Updated geerlingguy.certbot to version 2.0.0
-- Updated geerlingguy.certbot to version 2.0.0
 - Updated geerlingguy.drush to version 2.0.1
 - Updated geerlingguy.firewall to version 2.2.1
 - Updated geerlingguy.git to version 1.3.0
