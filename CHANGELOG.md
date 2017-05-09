@@ -11,7 +11,7 @@ All notable changes to this role will be documented in this file.
 - Nothing
 
 ### Changed
-- Updated druidfi/ansible-role-nginx-includes to version 0.1.4
+- Updated druidfi.nginx-includes to version 0.1.4
 - Updated geerlingguy.certbot to version 2.0.0
 - Updated geerlingguy.certbot to version 2.0.0
 - Updated geerlingguy.drush to version 2.0.1
