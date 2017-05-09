@@ -11,7 +11,7 @@ Add this to requirements.yml:
 ```
 - src: git@github.com:druidfi/ansible-role-stack.git
   scm: git
-  version: 1.0.2
+  version: 1.0.3
   name: druidfi.role-stack
 ```
 

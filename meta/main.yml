@@ -4,34 +4,34 @@ dependencies:
     version: v0.3
   - src: git@github.com:druidfi/ansible-role-nginx-includes.git
     scm: git
-    version: 0.1.3
+    version: 0.1.4
     name: druidfi.nginx-includes
   - src: git@github.com:druidfi/ansible-role-nginx-certbot-cert.git
     scm: git
     version: 0.1.2
     name: druidfi.nginx-certbot-cert
   - src: geerlingguy.certbot
-    version: 1.0.1
+    version: 2.0.0
   - src: geerlingguy.composer
     version: 1.6.1
   - src: geerlingguy.daemonize
     version: 1.1.1
   - src: geerlingguy.drush
-    version: 1.2.1
+    version: 2.0.1
   - src: geerlingguy.firewall
-    version: 2.1.1
+    version: 2.2.1
   - src: geerlingguy.git
-    version: 1.2.1
+    version: 1.3.0
   - src: geerlingguy.java
     version: 1.7.4
   - src: geerlingguy.mailhog
-    version: 2.1.1
+    version: 2.1.3
   - src: geerlingguy.memcached
     version: 1.0.7
   - src: geerlingguy.mysql
-    version: 2.5.1
+    version: 2.7.2
   - src: geerlingguy.nodejs
-    version: 4.0.0
+    version: 4.1.1
   - src: geerlingguy.php
     version: 3.4.4
   - src: geerlingguy.php-memcached
@@ -45,7 +45,7 @@ dependencies:
   - src: geerlingguy.postfix
     version: 1.1.0
   - src: geerlingguy.repo-epel
-    version: 1.2.1
+    version: 1.2.2
   - src: geerlingguy.repo-remi
     version: 1.2.0
   - src: geerlingguy.ruby
@@ -53,12 +53,12 @@ dependencies:
   - src: geerlingguy.security
     version: 1.5.0
   - src: geerlingguy.solr
-    version: 3.5.1
+    version: 3.5.5
   - src: geerlingguy.varnish
-    version: 1.8.3
+    version: 1.9.0
   - src: jdauphant.nginx
     version: v2.6
   - src: jdauphant.ssl-certs
-    version: v1.2.6
+    version: v1.4
   - src: tersmitten.swapfile
     version: v1.0.4
