@@ -8,7 +8,7 @@ All notable changes to this role will be documented in this file.
 
 ## [1.0.4]
 ### Added
-- Nothing
+- Added geerlingguy.php-versions role 2.0.0 for controlling PHP versions
 
 ### Changed
 - Updated geerlingguy.daemonize to version 1.2.0

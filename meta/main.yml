@@ -40,6 +40,8 @@ dependencies:
     version: 2.0.1
   - src: geerlingguy.php-pecl
     version: 1.4.0
+  - src: geerlingguy.php-versions
+    version: 2.0.0
   - src: geerlingguy.php-xdebug
     version: 2.4.0
   - src: geerlingguy.postfix
