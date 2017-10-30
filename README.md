@@ -11,7 +11,7 @@ Add this to requirements.yml:
 ```
 - src: git@github.com:druidfi/ansible-role-stack.git
   scm: git
-  version: 1.0.3
+  version: 1.0.4
   name: druidfi.role-stack
 ```
 
@@ -37,6 +37,7 @@ No need to add this role to any playbook, as you will use the roles below in you
 - geerlingguy.php-memcached
 - geerlingguy.php-mysql
 - geerlingguy.php-pecl
+- geerlingguy.php-versions
 - geerlingguy.php-xdebug
 - geerlingguy.postfix
 - geerlingguy.repo-epel
@@ -48,3 +49,14 @@ No need to add this role to any playbook, as you will use the roles below in you
 - jdauphant.nginx
 - jdauphant.ssl-certs
 - tersmitten.swapfile
+
+## How to test
+
+Add this to requirements.yml:
+
+```
+- src: git@github.com:druidfi/ansible-role-stack.git
+  scm: git
+  version: BRANCH_YOU_WANT_TO_TEST
+  name: druidfi.role-stack
+```

@@ -6,6 +6,23 @@ All notable changes to this role will be documented in this file.
 
 ### Changed
 
+## [1.0.4]
+### Added
+- Added geerlingguy.php-versions role 2.0.0 for controlling PHP versions
+
+### Changed
+- Updated geerlingguy.daemonize to version 1.2.0
+- Updated geerlingguy.firewall to version 2.3.0
+- Updated geerlingguy.git to version 1.4.0
+- Updated geerlingguy.mysql to version 2.8.0
+- Updated geerlingguy.nodejs to version 4.1.2
+- Updated geerlingguy.php to version 3.5.0
+- Updated geerlingguy.php-pecl to version 1.4.0
+- Updated geerlingguy.php-xdebug to version 2.4.0
+- Updated geerlingguy.ruby to version 2.4.3
+- Updated jdauphant.nginx to version v2.11.1
+- Updated tersmitten.swapfile to version v1.0.11
+
 ## [1.0.3]
 ### Added
 - Nothing
