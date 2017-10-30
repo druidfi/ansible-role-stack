@@ -49,3 +49,14 @@ No need to add this role to any playbook, as you will use the roles below in you
 - jdauphant.nginx
 - jdauphant.ssl-certs
 - tersmitten.swapfile
+
+## How to test
+
+Add this to requirements.yml:
+
+```
+- src: git@github.com:druidfi/ansible-role-stack.git
+  scm: git
+  version: BRANCH_YOU_WANT_TO_TEST
+  name: druidfi.role-stack
+```
