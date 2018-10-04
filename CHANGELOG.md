@@ -6,6 +6,10 @@ All notable changes to this role will be documented in this file.
 
 ### Changed
 
+##[1.0.5]
+### Changed
+- Changed jdauphant.ssl-certs to version 1.2.6 since there isn't version 1.4 
+
 ## [1.0.4]
 ### Added
 - Added geerlingguy.php-versions role 2.0.0 for controlling PHP versions
